@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adhit Simhadri
+# 👋 Hey there, I'm Adhit 
 
 I'm currently diving into the world of **functional programming**, learning languages like Go, Rust, and Haskell. I'm also exploring **Artificial Intelligence** and **Machine Learning**, with a growing interest in reading and understanding **research papers**.
 
