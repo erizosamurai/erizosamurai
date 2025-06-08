@@ -1,6 +1,5 @@
 # 👋 Hey there, I'm Adhit Simhadri
 
-
 I'm currently diving into the world of **functional programming**, learning languages like Go, Rust, and Haskell. I'm also exploring **Artificial Intelligence** and **Machine Learning**, with a growing interest in reading and understanding **research papers**.
 
 I'm passionate about **open source**—I love learning from the community and look forward to actively contributing to meaningful projects.
@@ -21,6 +20,7 @@ I'm passionate about **open source**—I love learning from the community and lo
 
 Outside of coding, I enjoy **taking photographs** 📷, **playing with dogs** 🐶, and **gaming** 🎮.  
 I'm currently exploring the lands between in **Elden Ring**!
+
 ---
 
 ## 🌐 Connect With Me
@@ -30,4 +30,4 @@ I'm currently exploring the lands between in **Elden Ring**!
 
 ---
 
-> *Learning every day, one line of code at a time. Let's build something awesome together!*
+> *Step by step, line by line — building a whole new universe with code.*
