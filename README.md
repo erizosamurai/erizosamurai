@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there, I'm Adhit Simhadri
 
-<!--
-**adhit-420/adhit-420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm currently diving into the world of **functional programming**, learning languages like Go, Rust, and Haskell. I'm also exploring **Artificial Intelligence** and **Machine Learning**, with a growing interest in reading and understanding **research papers**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about **open source**—I love learning from the community and look forward to actively contributing to meaningful projects.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhitsimhadri&show_icons=true&theme=radical" alt="Adhit's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhitsimhadri&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🐾 Fun Fact
+
+Outside of coding, I enjoy **taking photographs** 📷 and **playing with dogs** 🐶—both keep me curious, creative, and grounded.
+
+---
+
+## 🌐 Connect With Me
+
+- 🐦 [X (Twitter)](https://x.com/ADHIT6969)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adhitsimhadri/)
+
+---
+
+> *Learning every day, one line of code at a time. Let's build something awesome together!*
