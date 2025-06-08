@@ -7,7 +7,7 @@ I'm passionate about **open source**—I love learning from the community and lo
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adhit-420&show_icons=true&theme=radical" alt="Adhit's GitHub Stats" />
