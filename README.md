@@ -10,9 +10,9 @@ I'm passionate about **open source**—I love learning from the community and lo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhitsimhadri&show_icons=true&theme=radical" alt="Adhit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhit-420&show_icons=true&theme=radical" alt="Adhit's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhitsimhadri&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adhit-420&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 ---
