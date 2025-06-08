@@ -19,8 +19,8 @@ I'm passionate about **open source**—I love learning from the community and lo
 
 ## 🐾 Fun Fact
 
-Outside of coding, I enjoy **taking photographs** 📷 and **playing with dogs** 🐶—both keep me curious, creative, and grounded.
-
+Outside of coding, I enjoy **taking photographs** 📷, **playing with dogs** 🐶, and **gaming** 🎮.  
+I'm currently exploring the lands between in **Elden Ring**!
 ---
 
 ## 🌐 Connect With Me
