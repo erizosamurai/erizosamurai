@@ -26,31 +26,6 @@ I'm passionate about **open source**—I love learning from the community and lo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhit-420&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhit-420&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adhit-420&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adhit-420&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
 
 ## 🐾 Fun Fact
 
