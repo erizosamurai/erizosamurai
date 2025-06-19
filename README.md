@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Adhit 
 
-I'm currently diving into the world of **functional programming**, learning languages like Go, Rust, and Haskell. I'm also exploring **Artificial Intelligence** and **Machine Learning**, with a growing interest in reading and understanding **research papers**.
+I'm currently diving into the world of functional programming, learning languages like Go, Rust, and Haskell. I'm also exploring Artificial Intelligence and Machine Learning, with a growing interest in reading and understanding research papers. Alongside this, I'm learning GPU programming to leverage high-performance computing for advanced AI workloads.
 
-I'm passionate about **open source**—I love learning from the community and look forward to actively contributing to meaningful projects.
+I'm passionate about open source—I love learning from the community and look forward to actively contributing to meaningful projects.
 
 ---
 
@@ -13,6 +13,10 @@ I'm passionate about **open source**—I love learning from the community and lo
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
