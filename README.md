@@ -30,18 +30,20 @@ I'm passionate about open source—I love learning from the community and look f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erizosamurai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
-## 🐾 Fun Fact
+## Fun Fact
 
-Outside of coding, I enjoy **taking photographs** 📷, **playing with dogs** 🐶, and **gaming** 🎮.  
-I'm currently exploring the lands between in **Elden Ring**!
+Outside of coding, I enjoy taking photographs, playing with dogs, and gaming.  
+I'm currently exploring the lands between in Elden Ring!
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🐦 [X (Twitter)](https://x.com/ErizoSamurai)
-- 💼 [LinkedIn](https://www.linkedin.com/in/adhitsimhadri/)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />](https://erizosamurai.github.io/portfolio/)
+[<img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/ErizoSamurai)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adhitsimhadri/)
 
 ---
 
