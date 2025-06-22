@@ -40,7 +40,7 @@ I'm currently exploring the lands between in **Elden Ring**!
 
 ## 🌐 Connect With Me
 
-- 🐦 [X (Twitter)](https://x.com/ADHIT6969)
+- 🐦 [X (Twitter)](https://x.com/ErizoSamurai)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adhitsimhadri/)
 
 ---
