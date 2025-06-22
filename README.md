@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adhit 
+# Hey there, I'm Adhit
 
 I'm currently diving into the world of functional programming, learning languages like Go, Rust, and Haskell. I'm also exploring Artificial Intelligence and Machine Learning, with a growing interest in reading and understanding research papers. Alongside this, I'm learning GPU programming to leverage high-performance computing for advanced AI workloads.
 
@@ -8,15 +8,15 @@ I'm passionate about open source—I love learning from the community and look f
 
 ## Tech Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
@@ -35,15 +35,15 @@ I'm passionate about open source—I love learning from the community and look f
 ## Fun Fact
 
 Outside of coding, I enjoy taking photographs, playing with dogs, and gaming.  
-I'm currently exploring the lands between in Elden Ring!
+I'm currently exploring the lands between in Elden Ring.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />](https://erizosamurai.github.io/portfolio/)
-[<img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/ErizoSamurai)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adhitsimhadri/)
+- [Portfolio](https://erizosamurai.github.io/portfolio/)
+- [Twitter](https://x.com/ErizoSamurai)
+- [LinkedIn](https://www.linkedin.com/in/adhitsimhadri/)
 
 ---
 
