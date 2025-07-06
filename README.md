@@ -41,7 +41,7 @@ I'm currently exploring the lands between in Elden Ring.
 
 ## Connect With Me
 
-- [Portfolio](https://erizosamurai.github.io/portfolio/)
+- [Portfolio](https://erizosamurai.vercel.app)
 - [Twitter](https://x.com/ErizoSamurai)
 - [LinkedIn](https://www.linkedin.com/in/adhitsimhadri/)
 
