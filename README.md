@@ -4,7 +4,7 @@ I'm currently exploring NLP and Vision domains and learning GPU programming.
 
 I love learning from the community and look forward to actively contributing to meaningful projects.
 
-I'm currently working on a semantic-search based CLI tool for images.
+I'm currently working on creating an interesting datasets.
 
 ---
 
